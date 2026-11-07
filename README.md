@@ -2,11 +2,11 @@
 
 ### 💻 Web Developer | Programmer | Tech Enthusiast
 
-I'm **Nurunnabi**, an aspiring developer passionate about building innovative, user-friendly, and modern digital experiences.
+I'm **Nurunnabi**, an aspiring software developer passionate about building innovative, user-friendly, and modern digital experiences.
 
-🎓 Currently pursuing **Computer Science and Engineering (CSE)** at **BCG Trust University Bangladesh**.
+🎓 Currently pursuing **Computer Science and Engineering (CSE)** at **BGC Trust University Bangladesh**.
 
-I enjoy exploring new technologies, solving programming problems, and turning creative ideas into real-world projects.
+I enjoy exploring new technologies, solving programming challenges, and transforming creative ideas into real-world projects.
 
 ---
 
@@ -14,10 +14,12 @@ I enjoy exploring new technologies, solving programming problems, and turning cr
 
 - 🌱 Currently learning C, C++, Java, and JavaScript.
 - 💻 Interested in Web Development and App Development.
-- 👯 Looking to collaborate on exciting GitHub projects.
-- 💬 Ask me about Web Development, React, JavaScript, HTML, and CSS.
+- 👯 Looking to collaborate on exciting open-source projects.
+- 💬 Ask me about HTML, CSS, JavaScript, React, and Web Development.
 - 🎯 Goal: Become a skilled Full Stack Developer.
-- ⚡ Fun fact: I'm still learning, exploring, and building every day!
+- ⚡ Fun fact: I'm always learning, exploring, and building something new!
+
+---
 
 ## 🛠️ Languages & Technologies
 
@@ -32,38 +34,61 @@ I enjoy exploring new technologies, solving programming problems, and turning cr
 - HTML5
 - CSS3
 - Tailwind CSS
-- React JS
+- React.js
 
 **App Development**
 - Flutter
 
-## 🌐 Connect With Me
-
-- **GitHub:** [Nurunnabi-BD](https://github.com/Nurunnabi-BD)
-- **Facebook:** [nabi5572](https://www.facebook.com/nabi5572)
-- **Instagram:** [@_nurunnabi_](https://www.instagram.com/_nurunnabi_/)
-- **Portfolio:** [Visit my portfolio](https://portfolio-01-henna.vercel.app/)
-
-## 🏆 GitHub Achievements
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Nurunnabi-BD&theme=algolia&no-frame=true)](https://github.com/Nurunnabi-BD)
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurunnabi-BD&show_icons=true&theme=algolia&cache_seconds=86400)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurunnabi-BD&layout=compact&theme=algolia&cache_seconds=86400)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nurunnabi-BD&theme=algolia)
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+- Firebase
+- MongoDB
 
 ---
 
-### ✨ My Motto
+## 🌐 Connect With Me
+
+- **GitHub:** [Nurunnabi-BD](https://github.com/Nurunnabi-BD)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+- **X (Twitter):** [Follow me](https://x.com/YOUR-X-USERNAME)
+- **Facebook:** [Nurunnabi](https://www.facebook.com/nurunnabi55)
+- **Instagram:** [@_nurunnabi_](https://www.instagram.com/_nurunnabi_/)
+- **Portfolio:** [Visit My Portfolio](https://portfolio-01-henna.vercel.app/)
+
+---
+
+## 🏆 GitHub Achievements
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Nurunnabi-BD&theme=algolia&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Nurunnabi-BD)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurunnabi-BD&show_icons=true&theme=algolia&hide_border=true&cache_seconds=86400)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurunnabi-BD&layout=compact&theme=algolia&hide_border=true&cache_seconds=86400)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nurunnabi-BD&theme=algolia&hide_border=true)
+
+---
+
+## ✨ My Motto
 
 **"Dream Big, Learn Continuously, Build Creatively & Never Stop Coding!"**
 
+---
+
 ⭐ Thanks for visiting my profile!
+
+**Let's connect, collaborate, and build something amazing together! 🚀**
