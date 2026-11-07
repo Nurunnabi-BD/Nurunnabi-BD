@@ -46,15 +46,15 @@ I enjoy exploring new technologies, solving programming problems, and turning cr
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nurunnabi-BD&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Nurunnabi-BD&theme=algolia&no-frame=true)](https://github.com/Nurunnabi-BD)
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurunnabi-BD&show_icons=true&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurunnabi-BD&show_icons=true&theme=algolia&cache_seconds=86400)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurunnabi-BD&layout=compact&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurunnabi-BD&layout=compact&theme=algolia&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
 
