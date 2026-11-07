@@ -51,10 +51,10 @@ I enjoy exploring new technologies, solving programming challenges, and transfor
 ## 🌐 Connect With Me
 
 - **GitHub:** [Nurunnabi-BD](https://github.com/Nurunnabi-BD)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-- **X (Twitter):** [Follow me](https://x.com/YOUR-X-USERNAME)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/nurunnabi-b7b61b394)
+- **X (Twitter):** [Follow me](https://x.com/_nurunnabi_)
 - **Facebook:** [Nurunnabi](https://www.facebook.com/nurunnabi55)
-- **Instagram:** [@_nurunnabi_](https://www.instagram.com/_nurunnabi_/)
+- **Instagram:** [@_nurunnabi_](https://www.instagram.com/_nurunnabi_)
 - **Portfolio:** [Visit My Portfolio](https://portfolio-01-henna.vercel.app/)
 
 ---
