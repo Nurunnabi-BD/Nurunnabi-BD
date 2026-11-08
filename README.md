@@ -1,16 +1,29 @@
+
 # Hi there 👋, I'm Nurunnabi
 
-### 💻 Web Developer | Programmer | Tech Enthusiast
+### 💻 Software Developer | Flutter App Developer | Web Developer
 
-I'm *Nurunnabi*, an aspiring developer passionate about building innovative, user-friendly, and modern digital experiences.
+I'm **Nurunnabi**, a passionate software developer who loves building modern, user-friendly, and innovative web and mobile applications.
 
-🎓 Currently pursuing *Computer Science and Engineering (CSE)* at *BCG Trust University Bangladesh*.
+🎓 Currently pursuing **Computer Science and Engineering (CSE)** at **BGC Trust University Bangladesh**.
 
-I enjoy exploring new technologies, solving programming problems, and turning creative ideas into real-world projects.
+I enjoy learning new technologies, solving programming problems, and transforming creative ideas into real-world applications.
 
 ---
-# 💫 About Me:
-🌱 Currently learning C, C++, Java, and JavaScript.<br>💻 Interested in Web Development and App Development.<br>👯 Looking to collaborate on exciting open-source projects.<br>💬 Ask me about HTML, CSS, JavaScript, React, and Web Development.<br>🎯 Goal: Become a skilled Full Stack Developer.<br>⚡ Fun fact: I'm always learning, exploring, and building something new!
+
+## 💫 About Me
+
+- 💻 Skilled in **C, C++, Java, and JavaScript**.
+- 🌐 Web Development: **HTML, CSS, Tailwind CSS, and React.js**.
+- 📱 Mobile App Development: **Dart and Flutter**.
+- 🌱 Currently learning **Python** to expand my programming knowledge.
+- 🚀 Interested in **Flutter App Development and Full Stack Web Development**.
+- 👯 Looking to collaborate on exciting open-source and real-world projects.
+- 💬 Ask me about **C, C++, Java, JavaScript, React.js, Flutter, and Web Development**.
+- 🎯 Goal: Become a skilled **Software Engineer** and build impactful applications.
+- ⚡ Fun fact: I love exploring new technologies and turning ideas into code!
+
+---
 
 
 ## 🌐 Socials:
